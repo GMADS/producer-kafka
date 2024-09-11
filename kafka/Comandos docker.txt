@@ -1,0 +1,4 @@
+Comando para criar os contêiner: docker composse
+Comando para subir os containers docker start $(docker os -a -q)
+Comando para ver os containers rodando e as portas que estão disponibilizados: docker os -a
+
